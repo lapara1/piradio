@@ -1,0 +1,31 @@
+# Station list - Source list for radio stations streams
+# File: /var/lib/radiod/stationlist (Don't use station.urls - distribution only)
+
+# Name of playlist file
+
+(Dominican Radio)
+
+[Fuego - 90.1  - La Salsera] https://radio5.domint.net:8110/stream
+[Independencia FM - 93.3] http://stream.radiojar.com/nc893hafc8zuv
+[Latidos - 93.7] https://rstream.hostdime.com/proxy/latidos?mp=/8880?ver=759878
+[KQ - 94.5] https://radio.yaservers.com:7001/;stream.mp3<audio autoplay>
+[Kiss - 94.9] https://rstream.hostdime.com/proxy/kiss949?mp=/8880?ver=491496
+[La Kalle - 96.3] http://stream.radiojar.com/z3ppfytwm2zuv
+[Radio Cima 100.5] https://mars.streamerr.co/8122/stream
+[Super Q - 100.9] http://23.239.68.71:9756/;/stream/1/
+[Caliente - 104.1] https://rs5.domint.net:8064/stream
+[Mortal - 104.9] http://n0a.radiojar.com/x84tcy2wm2zuv?rj-ttl=5&rj-tok=AAABdbTTr_MAZACbQl_85B5uJg
+[Disco 106] http://rss4.domint.net:8050/stream/1/
+[Radio Eternidad 990 AM] https://ss.redradios.net:8001/stream
+[El Zol 106.7] https://prod-35-247-112-73.wostreaming.net/sbsystems-wxdjfmaac-ib-64
+
+#-------------------------------------------------------------------------------------------------
+#Internet Radios
+
+[Sabor a Merengue - Internet Station] http://rss5.domint.net:8054/stream/1/
+[El Bacharengue - Internet Station] https://radio.streamingcpanel.com:7013/stream/1/
+[Salsa Radio - Internet Station] http://radio.domiplay.net:2002/stream/1/
+
+
+# The new one success
+
